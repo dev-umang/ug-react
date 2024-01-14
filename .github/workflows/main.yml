@@ -1,4 +1,4 @@
-name: Generate New Tag
+name: Publish Github Tag
 on:
   workflow_dispatch:
     inputs:
