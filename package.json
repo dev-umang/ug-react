@@ -59,5 +59,22 @@
   "peerDependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dev-umang/ug-react.git"
+  },
+  "keywords": [
+    "React Components",
+    "React Library"
+  ],
+  "author": {
+    "email": "dev.umangjoshi@gmail.com",
+    "name": "Umang Joshi"
+  },
+  "bugs": {
+    "url": "https://github.com/dev-umang/ug-react.git/issues"
+  },
+  "homepage": "https://github.com/dev-umang/ug-react.git#readme",
+  "license": "MIT"
 }
