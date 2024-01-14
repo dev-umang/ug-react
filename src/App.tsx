@@ -1,6 +1,6 @@
-import "./App.css";
-
 // import {useState} from "react";
+
+import {Button} from "ug-react";
 
 // import viteLogo from "/vite.svg";
 
@@ -11,7 +11,7 @@ function App() {
 
   return (
     <>
-      HELLO
+      <Button background="red">Hey Man</Button>
     </>
   );
 }
