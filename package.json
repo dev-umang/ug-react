@@ -29,7 +29,7 @@
   },
   "main": "./dist/ug-react.umd.js",
   "module": "./dist/ug-react.es.js",
-  "types": "./dist/components/index.d.ts",
+  "types": "./dist/index.d.ts",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"

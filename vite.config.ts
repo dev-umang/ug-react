@@ -18,11 +18,12 @@ export default defineConfig((configEnv) => ({
     }),
     dts({
       include: ["src"],
+      insertTypesEntry: true,
     }),
   ],
   build: {
     lib: {
-      entry: resolve("src", "components/index.ts"),
+      entry: resolve("src", "index.ts"),
       name: "UGReact",
       formats: ["es", "umd"],
       fileName: (format) => `ug-react.${format}.js`,
