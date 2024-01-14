@@ -62,7 +62,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dev-umang/ug-react.git"
+    "url": "git@github.com:dev-umang/ug-react.git"
   },
   "keywords": [
     "React Components",
@@ -73,8 +73,8 @@
     "name": "Umang Joshi"
   },
   "bugs": {
-    "url": "https://github.com/dev-umang/ug-react.git/issues"
+    "url": "git@github.com:dev-umang/ug-react.git/issues"
   },
-  "homepage": "https://github.com/dev-umang/ug-react.git#readme",
+  "homepage": "git@github.com:dev-umang/ug-react.git#readme",
   "license": "MIT"
 }
